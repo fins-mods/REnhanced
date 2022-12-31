@@ -2,7 +2,7 @@
   "name": "REnhanced",
   "version_number": "1.0.1",
   "website_url": "",
-  "description": "An \"Enhanced Vanilla\" experience with a lot of quality-of-life enhancement mods, minimal balance tweaks*, and vanilla compatibility.",
+  "description": "An \"Enhanced Vanilla\" experience with a lot of quality-of-life enhancement mods, minimal balance tweaks, and vanilla compatibility.",
   "dependencies": [
     "bbepis-BepInExPack-5.4.2103",
     "RiskofThunder-HookGenPatcher-1.2.3",
