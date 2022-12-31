@@ -1,7 +1,7 @@
 {
   "name": "REnhanced",
   "version_number": "1.0.2",
-  "website_url": "",
+  "website_url": "https://github.com/fins-mods/REnhanced",
   "description": "An \"Enhanced Vanilla\" experience with a lot of quality-of-life enhancement mods, minimal balance tweaks, and vanilla compatibility.",
   "dependencies": [
     "bbepis-BepInExPack-5.4.2103",
