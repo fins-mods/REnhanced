@@ -1,6 +1,9 @@
 # REnhanced Modpack
 TL;DR It's an "Enhanced Vanilla" experience with a lot of quality-of-life enhancement mods, minimal balance tweaks\*, and vanilla compatibility.
 
+### Thank you for over 100 Downloads!
+
+
 
 ## Better explanation
 First and foremost, this is a modpack made to pair my particular proceeding preferences:
@@ -15,7 +18,8 @@ First and foremost, this is a modpack made to pair my particular proceeding pref
 The way I see it, there's **a lot** of small tweaks (both flaw fixes and feature furtherance) that make considerable improvements to what it's like to just sit there and play the game. I much prefer a lot of very small independent tweaks that add up to a better experience instead of overhauling large/prominent parts of the game- I want to play Risk Of Rain 2, not a fan-made redesign and refactor.
 
 
-## Where I draw the "Vanilla flavored" line
+
+## Where I draw the "vanilla flavored" line
 This is of course a balancing act. So there are some mods I was on the fence about and chose to keep, and others that I decided not to. Since they're borderline and you might have different opinions, I'll list the iffy ones below.
 
 
@@ -31,17 +35,31 @@ This is of course a balancing act. So there are some mods I was on the fence abo
 - [RiskOfRave](https://thunderstore.io/package/RuneFox237/RiskOfRave) by [RuneFox237](https://thunderstore.io/package/RuneFox237) - Plays the song Caramelldansen and adds rainbow post processing effects during teleporter events. The only utility it has is indirectly reminding you to stay inside the teleporter circle by muffling the music when you're outside of it. Also volume preferences will differ from setup to setup and it needs to be adjusted in the config which is a bit obtrusive.
 
 
+
 ## Known Issues
-None currently, if you run into anything please contact me on Discord either by DMs ([Fin#1337](https://discord.com/users/386945522608373785)) or by @mentioning me in the [Risk Of Rain 2 Modding](https://discord.gg/5MbXZvd) Discord server.
+None currently, if you run into anything please contact me on Discord either by DMs ([Fin#1337](https://discord.com/users/386945522608373785)) or by @mentioning me in the [Risk Of Rain 2 Modding](https://discord.com/invite/5MbXZvd) Discord server.
 Alternatively you can open an [Issue](https://github.com/fins-mods/REnhanced/issues/new) on GitHub but you'll definitely get a slower response.
+
 
 
 ## Changelog
 These are identical to those found [on GitHub](https://github.com/fins-mods/REnhanced/releases).
-If you want notifications you can open that page then: Click the arrow next to "Watch" at the top -> Custom -> Releases -> Apply, and you'll get GitHub notifications (configurable to be push and/or email) whenever the modpack updates.
+If you want notifications you can open that page then: Click the arrow next to "Watch" at the top → Custom → Releases → Apply, and you'll get GitHub notifications (configurable to be push and/or email) whenever the modpack updates.
+
+
+### 1.0.4 More polish and a new mod- SeerPing
+- Changed README ROR2 Modding Discord invite from `discord.gg/` to `discord.com/invite/`
+- Fixed capitalization of 'Where I draw the "vanilla flavored" line' in README
+- Fixed manifest.json modlist being incorrectly sorted
+- Gave README consistent newlines
+- Added [SeerPing](https://thunderstore.io/package/Moonlol/SeerPing) by [Moonlol](https://thunderstore.io/package/Moonlol) - "makes the lunar seers show you where they lead when pinged"
+- Changed line endings to the unix style LF (\\n) instead of CRLF (\\r\\n). Will affect literally nothing in practice but it's my preference.
+- Changed Changelog section text to use `→` instead of `->` since my editor's font ligatures obviously don't apply on Thunderstore.. oops
+
 
 ### 1.0.3 Configuration fix
 - Fixed PingItemDescription misconfiguration
+
 
 ### 1.0.2 Polish
 - Fix a typo in the README
@@ -53,11 +71,14 @@ If you want notifications you can open that page then: Click the arrow next to "
 - Sort manifest.json dependency strings alphabetically by mod name (with R2API and BepInEx ones sorted separately at the bottom)
 - Somewhat heretically indented dependency strings to be centered around the `author`-`modname` dash delimiters
 
+
 ### 1.0.1 Remove an extra temp file
 - Delete a missed temporary file 1.0.1 Remove an extra temp file
 
+
 ### 1.0.0 Initial release
 - Initial Release
+
 
 
 ## Notes
