@@ -40,6 +40,9 @@ Alternatively you can open an [Issue](https://github.com/fins-mods/REnhanced/iss
 These are identical to those found [on GitHub](https://github.com/fins-mods/REnhanced/releases).
 If you want notifications you can open that page then: Click the arrow next to "Watch" at the top -> Custom -> Releases -> Apply, and you'll get GitHub notifications (configurable to be push and/or email) whenever the modpack updates.
 
+### 1.0.3 Configuration fix
+- Fixed PingItemDescription misconfiguration
+
 ### 1.0.2 Polish
 - Fix a typo in the README
 - Updated mod description
