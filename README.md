@@ -14,8 +14,9 @@ First and foremost, this is a modpack made to pair my particular proceeding pref
 
 The way I see it, there's **a lot** of small tweaks (both flaw fixes and feature furtherance) that make considerable improvements to what it's like to just sit there and play the game. I much prefer a lot of very small independent tweaks that add up to a better experience instead of overhauling large/prominent parts of the game- I want to play Risk Of Rain 2, not a fan-made redesign and refactor.
 
+
 ## Where I draw the "Vanilla flavored" line
-This is of course a balancing act. So there are some mods I was on the fence about and chose to keep, and others that I decided not to.
+This is of course a balancing act. So there are some mods I was on the fence about and chose to keep, and others that I decided not to. Since they're borderline and you might have different opinions, I'll list the iffy ones below.
 
 
 ### The ones I kept:
@@ -28,6 +29,32 @@ This is of course a balancing act. So there are some mods I was on the fence abo
 - [Aerolt](https://thunderstore.io/package/Lodington/Aerolt) by [Lodington](https://thunderstore.io/package/Lodington)- A cheating mod menu that can serve as a helpful utility and very useful for testing, but it also is by nature a cheat which can be frowned upon by some (to each their own I suppose).
 - [SillyItems](https://thunderstore.io/package/TheTimesweeper/SillyItems) by [TheTimesweeper](https://thunderstore.io/package/TheTimesweeper) - Even though you could argue being able to visually see how many items each player has does serve a purpose, if we're being realistic this mod is a much more "for fun" and not really a utility.
 - [RiskOfRave](https://thunderstore.io/package/RuneFox237/RiskOfRave) by [RuneFox237](https://thunderstore.io/package/RuneFox237) - Plays the song Caramelldansen and adds rainbow post processing effects during teleporter events. The only utility it has is indirectly reminding you to stay inside the teleporter circle by muffling the music when you're outside of it. Also volume preferences will differ from setup to setup and it needs to be adjusted in the config which is a bit obtrusive.
+
+
+## Known Issues
+None currently, if you run into anything please contact me on Discord either by DMs ([Fin#1337](https://discord.com/users/386945522608373785)) or by @mentioning me in the [Risk Of Rain 2 Modding](https://discord.gg/5MbXZvd) Discord server.
+Alternatively you can open an [Issue](https://github.com/fins-mods/REnhanced/issues/new) on GitHub but you'll definitely get a slower response.
+
+
+## Changelog
+These are identical to those found [on GitHub](https://github.com/fins-mods/REnhanced/releases).
+If you want notifications you can open that page then: Click the arrow next to "Watch" at the top -> Custom -> Releases -> Apply, and you'll get GitHub notifications (configurable to be push and/or email) whenever the modpack updates.
+
+### 1.0.2 Polish
+- Fix a typo in the README
+- Updated mod description
+- Add GitHub URL to manifest.json
+- Add Changelog section to README
+- Add currently empty "Known Issues" section to README
+- Remove an accidentally included mod skin mod (oops)
+- Sort manifest.json dependency strings alphabetically by mod name (with R2API and BepInEx ones sorted separately at the bottom)
+- Somewhat heretically indented dependency strings to be centered around the `author`-`modname` dash delimiters
+
+### 1.0.1 Remove an extra temp file
+- Delete a missed temporary file 1.0.1 Remove an extra temp file
+
+### 1.0.0 Initial release
+- Initial Release
 
 
 ## Notes
