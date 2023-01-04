@@ -1,7 +1,7 @@
 # REnhanced Modpack
 TL;DR It's an "Enhanced Vanilla" experience with a lot of quality-of-life enhancement mods, minimal balance tweaks\*, and vanilla compatibility.
 
-### Thank you for over 100 Downloads!
+### Thank you for over 350 Downloads!
 
 
 
@@ -13,6 +13,7 @@ First and foremost, this is a modpack made to pair my particular proceeding pref
 - Balance changes should be avoided or at most, imperceptible\*
 - Performance over resource usage†
 - Nothing "chocolate", nothing should *feel* modded. It should be conceivable that all of the mods could be added to the base game.
+- No deprecated mods!
 
 
 The way I see it, there's **a lot** of small tweaks (both flaw fixes and feature furtherance) that make considerable improvements to what it's like to just sit there and play the game. I much prefer a lot of very small independent tweaks that add up to a better experience instead of overhauling large/prominent parts of the game- I want to play Risk Of Rain 2, not a fan-made redesign and refactor.
@@ -45,6 +46,13 @@ Alternatively you can open an [Issue](https://github.com/fins-mods/REnhanced/iss
 ## Changelog
 These are identical to those found [on GitHub](https://github.com/fins-mods/REnhanced/releases).
 If you want notifications you can open that page then: Click the arrow next to "Watch" at the top → Custom → Releases → Apply, and you'll get GitHub notifications (configurable to be push and/or email) whenever the modpack updates.
+
+
+### 1.0.5
+- Added "No deprecated mods!" to my list of ~~pseudo-requirements~~ preferences.
+- Added note at the very bottom of README to like the modpacks
+- Updated thank you downloads number to 350
+- GitHub 'meta' stuff like the LICENSE and any future 'meta' repository stuff will be on the default `meta` branch.
 
 
 ### 1.0.4 More polish and a new mod- SeerPing
@@ -86,3 +94,7 @@ If you want notifications you can open that page then: Click the arrow next to "
 ###### \* Balance tweaks that do exist should be imperceptible without a direct 1:1 comparison (you'd fail a blind test).
 
 ###### † I have a beefy computer, my friends have beefy computers. If you don't have 8GB of RAM free for the game to use, disable StutterStunterFork. If you have less than 32GB of RAM in your system, change the memory warning and max memory thresholds in the StutterStunterFork config file. If you don't follow these warnings, you will run into trouble. Do not complain to the StutterStunterFork maintainers.
+
+---
+
+###### *psst, if you read this far you should like the modpack on [Thunderstore](https://thunderstore.io/package/fin/REnhanced), it really would mean a lot to me ♥*
