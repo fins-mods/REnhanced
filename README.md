@@ -48,7 +48,7 @@ These are identical to those found [on GitHub](https://github.com/fins-mods/REnh
 If you want notifications you can open that page then: Click the arrow next to "Watch" at the top → Custom → Releases → Apply, and you'll get GitHub notifications (configurable to be push and/or email) whenever the modpack updates.
 
 
-### 1.0.5
+### 1.0.5 Just README Updates
 - Added "No deprecated mods!" to my list of ~~pseudo-requirements~~ preferences.
 - Added note at the very bottom of README to like the modpacks
 - Updated thank you downloads number to 350
