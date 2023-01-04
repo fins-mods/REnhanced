@@ -52,7 +52,6 @@ If you want notifications you can open that page then: Click the arrow next to "
 - Added "No deprecated mods!" to my list of ~~pseudo-requirements~~ preferences.
 - Added note at the very bottom of README to like the modpacks
 - Updated thank you downloads number to 350
-- GitHub 'meta' stuff like the LICENSE and any future 'meta' repository stuff will be on the default `meta` branch.
 
 
 ### 1.0.4 More polish and a new mod- SeerPing
