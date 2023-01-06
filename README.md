@@ -1,7 +1,7 @@
 # REnhanced Modpack
 TL;DR It's an "Enhanced Vanilla" experience with a lot of quality-of-life enhancement mods, minimal balance tweaks\*, and vanilla compatibility.
 
-### Thank you for over 350 Downloads!
+### Thank you for over 500 Downloads!
 
 
 
@@ -25,15 +25,15 @@ This is of course a balancing act. So there are some mods I was on the fence abo
 
 
 ### The ones I kept:
-- [RespawnAfterBoss](https://thunderstore.io/package/neutrino-steak/RespawnAfterBoss) by [neutrino-steak](https://thunderstore.io/package/neutrino-steak) - Respawns all dead players once all bosses have been defeated. This means if 1 out of 4 players are alive at the end of the teleporter event, instead of all of the boss drops going to them, the other players can get their share so they don't fall behind (plus if they died, they could probably use the help from the extra items).
-- [TooManyFriends](https://thunderstore.io/package/wildbook/TooManyFriends) by [wildbook](https://thunderstore.io/package/wildbook) - Allows you to play with more than just 4 players per lobby. The base game's player count-scaling wasn't designed with more than 4 player lobbies in mind, however since the mod only introduces that edge case perplexion once the mod becomes necessary, it's somewhat of a "necessary evil" with no better alternative.
+- [RespawnAfterBoss](https://thunderstore.io/package/neutrino-steak/RespawnAfterBoss/) by [neutrino-steak](https://thunderstore.io/package/neutrino-steak/) - Respawns all dead players once all bosses have been defeated. This means if 1 out of 4 players are alive at the end of the teleporter event, instead of all of the boss drops going to them, the other players can get their share so they don't fall behind (plus if they died, they could probably use the help from the extra items).
+- [TooManyFriends](https://thunderstore.io/package/wildbook/TooManyFriends/) by [wildbook](https://thunderstore.io/package/wildbook/) - Allows you to play with more than just 4 players per lobby. The base game's player count-scaling wasn't designed with more than 4 player lobbies in mind, however since the mod only introduces that edge case perplexion once the mod becomes necessary, it's somewhat of a "necessary evil" with no better alternative.
 
 
 ### The ones I didn't
-- [GoldChestForAll](https://thunderstore.io/package/DestroyedClone/GoldChestForAll) by [DestroyedClone](https://thunderstore.io/package/DestroyedClone) - While I do use this in my day-to-day and subjectively in my opinion it makes item distribution more fair, it does objectively affect balance in a meaningful way (4 reds on your team instead of 1 on Stage 4 can be pretty impactful).
-- [Aerolt](https://thunderstore.io/package/Lodington/Aerolt) by [Lodington](https://thunderstore.io/package/Lodington)- A cheating mod menu that can serve as a helpful utility and very useful for testing, but it also is by nature a cheat which can be frowned upon by some (to each their own I suppose).
-- [SillyItems](https://thunderstore.io/package/TheTimesweeper/SillyItems) by [TheTimesweeper](https://thunderstore.io/package/TheTimesweeper) - Even though you could argue being able to visually see how many items each player has does serve a purpose, if we're being realistic this mod is a much more "for fun" and not really a utility.
-- [RiskOfRave](https://thunderstore.io/package/RuneFox237/RiskOfRave) by [RuneFox237](https://thunderstore.io/package/RuneFox237) - Plays the song Caramelldansen and adds rainbow post processing effects during teleporter events. The only utility it has is indirectly reminding you to stay inside the teleporter circle by muffling the music when you're outside of it. Also volume preferences will differ from setup to setup and it needs to be adjusted in the config which is a bit obtrusive.
+- [GoldChestForAll](https://thunderstore.io/package/DestroyedClone/GoldChestForAll/) by [DestroyedClone](https://thunderstore.io/package/DestroyedClone/) - While I do use this in my day-to-day and subjectively in my opinion it makes item distribution more fair, it does objectively affect balance in a meaningful way (4 reds on your team instead of 1 on Stage 4 can be pretty impactful).
+- [Aerolt](https://thunderstore.io/package/Lodington/Aerolt/) by [Lodington](https://thunderstore.io/package/Lodington/)- A cheating mod menu that can serve as a helpful utility and very useful for testing, but it also is by nature a cheat which can be frowned upon by some (to each their own I suppose).
+- [SillyItems](https://thunderstore.io/package/TheTimesweeper/SillyItems/) by [TheTimesweeper](https://thunderstore.io/package/TheTimesweeper/) - Even though you could argue being able to visually see how many items each player has does serve a purpose, if we're being realistic this mod is a much more "for fun" and not really a utility.
+- [RiskOfRave](https://thunderstore.io/package/RuneFox237/RiskOfRave/) by [RuneFox237](https://thunderstore.io/package/RuneFox237/) - Plays the song Caramelldansen and adds rainbow post processing effects during teleporter events. The only utility it has is indirectly reminding you to stay inside the teleporter circle by muffling the music when you're outside of it. Also volume preferences will differ from setup to setup and it needs to be adjusted in the config which is a bit obtrusive.
 
 
 
@@ -48,9 +48,24 @@ These are identical to those found [on GitHub](https://github.com/fins-mods/REnh
 If you want notifications you can open that page then: Click the arrow next to "Watch" at the top → Custom → Releases → Apply, and you'll get GitHub notifications (configurable to be push and/or email) whenever the modpack updates.
 
 
+### 1.0.6 Mod updates, README polish
+- Updated Engi_M1_Autofire 1.1.4 → 1.2.0
+  - Risk of Options support.
+  - Fixed a bunch of config options being missing.
+- Updated [R2API_Core](https://thunderstore.io/package/RiskofThunder/R2API_Core/) 5.0.3 → 5.0.4
+  - Added SystemInitializerInjector class to the Utils namespace
+- Update R2API_Elites 1.0.0 → 1.0.1
+  - Fix some non working custom ramps (ramp index not properly set)
+  - Always enable EliteAPI hooks (potential fix for a Spikestrip elite color bug)
+- Appended `/`s to the end of Thunderstore links to avoid unnecessary redirects.
+- Added a `#` after the `/` in the Thunderstore link to this Modpack's package page so that it doesn't reload when pressed from Thunderstore.
+- Updated thank you downloads number to 500!
+- Fixed typo in previous changelog.
+
+
 ### 1.0.5 Just README Updates
 - Added "No deprecated mods!" to my list of ~~pseudo-requirements~~ preferences.
-- Added note at the very bottom of README to like the modpacks
+- Added note at the very bottom of README to like the modpack
 - Updated thank you downloads number to 350
 
 
@@ -59,7 +74,7 @@ If you want notifications you can open that page then: Click the arrow next to "
 - Fixed capitalization of 'Where I draw the "vanilla flavored" line' in README
 - Fixed manifest.json modlist being incorrectly sorted
 - Gave README consistent newlines
-- Added [SeerPing](https://thunderstore.io/package/Moonlol/SeerPing) by [Moonlol](https://thunderstore.io/package/Moonlol) - "makes the lunar seers show you where they lead when pinged"
+- Added [SeerPing](https://thunderstore.io/package/Moonlol/SeerPing/) by [Moonlol](https://thunderstore.io/package/Moonlol/) - "makes the lunar seers show you where they lead when pinged"
 - Changed line endings to the unix style LF (\\n) instead of CRLF (\\r\\n). Will affect literally nothing in practice but it's my preference.
 - Changed Changelog section text to use `→` instead of `->` since my editor's font ligatures obviously don't apply on Thunderstore.. oops
 
@@ -96,4 +111,4 @@ If you want notifications you can open that page then: Click the arrow next to "
 
 ---
 
-###### *psst, if you read this far you should like the modpack on [Thunderstore](https://thunderstore.io/package/fin/REnhanced), it really would mean a lot to me ♥*
+###### *psst, if you read this far you should like the modpack on [Thunderstore](https://thunderstore.io/package/fin/REnhanced/#), it really would mean a lot to me ♥*
