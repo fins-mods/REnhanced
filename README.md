@@ -49,12 +49,12 @@ If you want notifications you can open that page then: Click the arrow next to "
 
 
 ### 1.0.6 Mod updates, README polish
-- Updated Engi_M1_Autofire 1.1.4 → 1.2.0
+- Updated [Engi_M1_Autofire](https://thunderstore.io/package/Moffein/Engi_M1_Autofire/) 1.1.4 → 1.2.0
   - Risk of Options support.
   - Fixed a bunch of config options being missing.
 - Updated [R2API_Core](https://thunderstore.io/package/RiskofThunder/R2API_Core/) 5.0.3 → 5.0.4
   - Added SystemInitializerInjector class to the Utils namespace
-- Update R2API_Elites 1.0.0 → 1.0.1
+- Update [R2API_Elites](https://thunderstore.io/package/RiskofThunder/R2API_Elites/) 1.0.0 → 1.0.1
   - Fix some non working custom ramps (ramp index not properly set)
   - Always enable EliteAPI hooks (potential fix for a Spikestrip elite color bug)
 - Appended `/`s to the end of Thunderstore links to avoid unnecessary redirects.
