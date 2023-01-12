@@ -5,7 +5,7 @@ If you want notifications you can open that page then: Click the arrow next to "
 
 ## 1.1.0 Thank you for 1000 downloads! Here's our first minor version bump
 
-- New companion modpack with mods that didn't quite make the cut! It's already on [Thunderstore](https://thunderstore.io/package/fin/REnhanced-Extras/) and [GitHub](https://github.com/fins-mods/REnhanced-Extras)
+- New companion modpack with mods that didn't quite make the cut! It's already on [Thunderstore](https://thunderstore.io/package/fin/REnhanced_Extras/) and [GitHub](https://github.com/fins-mods/REnhanced_Extras)
 - The following changes mentioned in the 1.0.7 changelog:
   - `LICENSE.txt` will be omitted from the Thunderstore package.
   - `manifest.json` will be minified
@@ -20,7 +20,7 @@ If you want notifications you can open that page then: Click the arrow next to "
   - PingItemDescription
 - Removed dependency mods that will be installed automatically when installing their dependants.
 - Updated note about StutterStunter and removed StutterStunter config
-- Re-ordered "Better Explanation" section's bullet points to match the ordering in REnhanced-Extras
+- Re-ordered "Better Explanation" section's bullet points to match the ordering in REnhanced_Extras
 - The README note about the changelog being moved to CHANGELOG.md is now gone
 - Changed README notes from H3 headers to bullet points
 - Changed borderline mods from bullet points to H4 headers with their respective descriptions underneath instead of all being on giant single lines

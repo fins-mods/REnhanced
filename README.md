@@ -34,7 +34,7 @@ Allows you to play with more than just 4 players per lobby. The base game's play
 
 ### The ones I didn't
 
-All of these are in my companion modpack, [REnhanced-Extras](https://thunderstore.io/package/fin/REnhanced-Extras)!
+All of these are in my companion modpack, [REnhanced_Extras](https://thunderstore.io/package/fin/REnhanced_Extras)!
 
 #### [GoldChestForAll](https://thunderstore.io/package/DestroyedClone/GoldChestForAll/) by [DestroyedClone](https://thunderstore.io/package/DestroyedClone/)
 
