@@ -2,7 +2,7 @@
 
 TL;DR It's an "Enhanced Vanilla" experience with a lot of quality-of-life enhancement mods, minimal balance tweaks\*, and vanilla compatibility.
 
-**Thank you so much for over 1000 Downloads!**
+**Thank you so much for over 2500 Downloads!**
 
 ## Better explanation
 

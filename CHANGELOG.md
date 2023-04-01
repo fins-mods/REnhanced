@@ -3,6 +3,29 @@
 These are identical to those found [on GitHub](https://github.com/fins-mods/REnhanced/releases).
 If you want notifications you can open that page then: Click the arrow next to "Watch" at the top → Custom → Releases → Apply, and you'll get GitHub notifications (configurable to be push and/or email) whenever the modpack updates.
 
+## 1.2.0
+
+- Added [BetterJumpPads](https://thunderstore.io/package/HIFU/BetterJumpPads/) by [HIFU](https://thunderstore.io/package/HIFU/) - Makes Jump Pads not lock your momentum.
+- Added [NoMoreMath](https://thunderstore.io/package/Goorakh/NoMoreMath/) by [Goorakh](https://thunderstore.io/package/Goorakh/)
+- Added [ResumeMusicPostTeleporter](https://thunderstore.io/package/prodzpod/ResumeMusicPostTeleporter/) by [prodzpod](https://thunderstore.io/package/prodzpod/)
+- Updated [BossAntiSoftlock](https://thunderstore.io/package/JustDerb/BossAntiSoftlock/) 1.0.2 → 1.0.3
+  - Added Simulacrum support
+  - Added ability to reset void monsters for void seeds
+  - Added ability to silence mod hint
+- Updated [ProperSave](https://thunderstore.io/package/KingEnderBrine/ProperSave/) 2.8.10 → 2.8.11
+  - Removed unnecessary logging from minion inventory change after loading, which caused lag with a big enough mod list.
+- Updated [Engi_M1_Autofire](https://thunderstore.io/package/Moffein/Engi_M1_Autofire/) 1.1.4 → 1.2.0
+  - Risk of Options support.
+  - Fixed a bunch of config options being missing.
+- Updated [HighItemVizability](https://thunderstore.io/package/VizMod/HighItemVizability/) 1.0.0 1.4.0
+  - 1.4.0 Added item indicator arrows similar to the red boss indicator arrows to better locate items
+  - 1.3.1 Adjusted red item sound and added command to turn all sounds off
+  - 1.3.0 Added ChaosMode and item pickup speed control
+  - 1.2.0 Added a sound effect for red items
+  - 1.1.0 Thicker beams. Oranger orange.
+- Removed StutterStunter config file
+- Updated downloads thank you message, over 1500 new downloads since the last update!
+
 ## 1.1.0 Thank you for 1000 downloads! Here's our first minor version bump
 
 - New companion modpack with mods that didn't quite make the cut! It's already on [Thunderstore](https://thunderstore.io/package/fin/REnhanced_Extras/) and [GitHub](https://github.com/fins-mods/REnhanced_Extras)
